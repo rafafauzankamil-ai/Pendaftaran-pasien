@@ -1,0 +1,234 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0080ff
+    
+}
+.container {
+    width: 480px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 75px;
+    border-radius: 40px;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: 100%;
+    box-shadow: 0px 10px 30px rgb(255, 255, 255);
+}
+
+#nama {
+    width: 400px;
+    height: 30px;
+    margin-bottom: 15px;
+    margin-top: 3px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.958);
+    border: none !important;
+}
+
+#umur {
+    width: 400px;
+    height: 30px;
+    margin-bottom: 15px;
+    margin-top: 3px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.958);
+    border: none !important;
+}
+
+#poli {
+    width: 400px;
+    height: 30px;
+    margin-bottom: 15px;
+    margin-top: 3px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.958);
+    border: none !important;
+}
+
+#keluhan {
+    width: 400px;
+    height: 30px;
+    margin-bottom: 15px;
+    margin-top: 3px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.958);
+    border: none !important;
+}
+
+#jadwal {
+    width: 400px;
+    height: 30px;
+    margin-bottom: 15px;
+    margin-top: 3px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.958);
+    border: none !important;
+}
+
+.gambar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.ilham {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    
+
+}
+
+header{
+    text-align: center;
+    margin-bottom: 30px;
+    border-bottom: 1px solid #e0e6ed;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    color: #0080ff;
+    font-size: 2rem;
+    text-shadow:  0px 10px 30px rgba(137, 229, 255, 0.958);
+}
+
+header p {
+    color : #0080ff;
+}
+
+
+.DataPasien {
+    flex: 1;
+    width: 800px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 75px;
+    border-radius: 40px;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: 100%;
+    box-shadow: 0px 10px 30px rgba(111, 164, 255, 0.958);
+}
+
+ul {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 10px 30px rgba(111, 164, 255, 0.958);
+    display: flex;
+}
+.bgvidio {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -10000000000000000;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+#daftar {
+    width: 100px;
+    padding: 12px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+    margin: auto;
+    box-shadow: 0px 10px 30px rgba(137, 229, 255, 0.958);
+}
+.tuborkolosis {
+    width: 980px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 75px;
+    border-radius: 40px;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    height: 500px;
+    box-shadow: 0px 10px 30px rgba(111, 164, 255, 0.958);
+}
+
+.tabel {
+    width: 100%;
+    border-collapse: collapse;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.tabel th, .tabel td {
+    text-align: center;
+    padding: 8px;
+}
+
+#perubahan {
+    width: 100px;
+    padding: 12px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: bold;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+.head {
+    background-color: #3498db;
+    color: white;
+    text-align: center;
+    height: 30px;
+}
+
+.fluesinga {
+    display: flex;
+    justify-content: center;
+    background-color: #3498db;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 0px 10px 30px rgba(137, 229, 255, 0.958);
+    color: white;
+    width: 190px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: bold;
+    align-content: center;
+    justify-content: center;
+    margin: auto;
+
+}
+.king30 {
+     position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: -1000;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-position: center;
+    background-attachment: fixed;
+    background-image: url('../img/Desain tanpa judul10.png');
+
+
+}
