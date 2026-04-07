@@ -9,7 +9,7 @@ function m() {
         <div class="sty">
         <img src="https://i.pinimg.com/1200x/66/94/b2/6694b20ffdbd24dcd7f5eb43570b4844.jpg">
         <video controls poster="https://i.ytimg.com/vi/g5gbu8l5_QI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBBSmAS8aOgYXM_LNoEXQbhsljQPw" width="640" height="360">
-            <source id="dbd" src="../vidio/YTDown.com_YouTube_Demam-Berdarah-Kok-Bisa-Banyak-Kasus-di-_Media_g5gbu8l5_QI_001_1080p.mp4" type="video/mp4">
+            <source id="dbd" src="YTDown.com_YouTube_Demam-Berdarah-Kok-Bisa-Banyak-Kasus-di-_Media_g5gbu8l5_QI_001_1080p.mp4" type="video/mp4">
         </video>
         </div>
         <h3 class="fon">Gejala DBD</h3>
@@ -113,7 +113,7 @@ function p() {
             <div class="stel">
               <img src="https://i.pinimg.com/736x/fe/13/3c/fe133c345dfdd8f3bc693adbf4cbe87d.jpg">
                 <video controls poster="https://i.ytimg.com/vi/FEcOIJbhGHI/maxresdefault.jpg"  width="640" height="360">
-                     <source id="sertung" src="../vidio/serangan-jantung.mp4" type="video/mp4">
+                     <source id="sertung" src="serangan-jantung.mp4" type="video/mp4">
                 </video>
             </div>
         <h3 class="ll">Kapan Harus ke Dokter?</h3>
@@ -184,7 +184,7 @@ function z() {
              <div class="stl">
               <img src="https://i.pinimg.com/1200x/1d/8c/86/1d8c86e1b9f3f32f9f7c02cd1f862920.jpg">
                 <video controls poster="https://i.ytimg.com/vi/shxs0HQXeaM/maxresdefault.jpg"  width="640" height="360">
-                     <source id="sertung" src="../vidio/tipes.mp4" type="video/mp4">
+                     <source id="sertung" src="tipes.mp4" type="video/mp4">
                 </video>
             </div>
         <h3 class="ren">Gejala Tifoid</h3>
