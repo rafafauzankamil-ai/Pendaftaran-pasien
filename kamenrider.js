@@ -184,7 +184,7 @@ function z() {
              <div class="stl">
               <img src="https://i.pinimg.com/1200x/1d/8c/86/1d8c86e1b9f3f32f9f7c02cd1f862920.jpg">
                 <video controls poster="https://i.ytimg.com/vi/shxs0HQXeaM/maxresdefault.jpg"  width="640" height="360">
-                     <source id="sertung" src="../vidio/tipes.mp4" type="video/mp4">
+                     <source id="sertung" src="../vidio/tifus.mp4" type="video/mp4">
                 </video>
             </div>
         <h3 class="ren">Gejala Tifoid</h3>
